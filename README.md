@@ -20,7 +20,7 @@ With `npm`:
 
 ```bash
 
-npm  install  strapi-plugin-upstash-search
+npm  install  @upstash/strapi-plugin-upstash-search
 
 ```
 
@@ -28,7 +28,7 @@ With `yarn`:
 
 ```bash
 
-yarn  add  strapi-plugin-upstash-search
+yarn  add  @upstash/strapi-plugin-upstash-search
 
 ```
 
