@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-upstash-search",
+  "name": "@upstash/strapi-plugin-upstash-search",
   "version": "0.0.1",
   "description": "Upstash Search plugin for Strapi - Add AI-powered search to your Strapi content with zero configs",
   "keywords": [
